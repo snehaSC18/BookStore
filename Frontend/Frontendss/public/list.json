@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"lorem ipsum 10",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720212697~exp=1720216297~hmac=74defc0f24bb614acf1ee41b39d0d54864c2cf2dfb62247f465950d92634658f&w=740"   
+    },
+    {
+        "id":2,
+        "name":"Fiction",
+        "title":"lorem ipsum 20",
+        "price":10,
+        "category":"fiction",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720212697~exp=1720216297~hmac=74defc0f24bb614acf1ee41b39d0d54864c2cf2dfb62247f465950d92634658f&w=740"    
+    },
+    {
+        "id":3,
+        "name":"GK Book",
+        "title":"lorem ipsum 30",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720212697~exp=1720216297~hmac=74defc0f24bb614acf1ee41b39d0d54864c2cf2dfb62247f465950d92634658f&w=740"    
+    },
+    {
+        "id":4,
+        "name":"Sports Book",
+        "title":"lorem ipsum 40",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720212697~exp=1720216297~hmac=74defc0f24bb614acf1ee41b39d0d54864c2cf2dfb62247f465950d92634658f&w=740"   
+    },
+    {
+        "id":5,
+        "name":"Non Fiction Book",
+        "title":"lorem ipsum 1000",
+        "price":40,
+        "category":"Non-fiction",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720212697~exp=1720216297~hmac=74defc0f24bb614acf1ee41b39d0d54864c2cf2dfb62247f465950d92634658f&w=740"   
+    },
+    {
+        "id":6,
+        "name":"Sports Book",
+        "title":"lorem ipsum 450",
+        "price":50,
+        "category":"sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720212697~exp=1720216297~hmac=74defc0f24bb614acf1ee41b39d0d54864c2cf2dfb62247f465950d92634658f&w=740"   
+    },
+    {
+        "id":7,
+        "name":"Science Book",
+        "title":"lorem ipsum 100",
+        "price":100,
+        "category":"Education",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720212697~exp=1720216297~hmac=74defc0f24bb614acf1ee41b39d0d54864c2cf2dfb62247f465950d92634658f&w=740"   
+    }
+]
